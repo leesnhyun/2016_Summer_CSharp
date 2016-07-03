@@ -208,11 +208,8 @@
 
 | 참가자
 |--------
-|신형철
-|이승현
-|홍성현
-|박인서
-|김상렬
-|유성현
-|강민승
-|성훈
+|[신형철](https://github.com/nerumin), 
+[이승현](https://github.com/leesnhyun), 
+[홍성현](https://github.com/tjdgus3537), 
+[강민승](https://github.com/minseungkang), 
+박인서, 김상렬, 유성현, 성훈
