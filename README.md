@@ -5,11 +5,7 @@
 
 | 참가자
 |--------
-|[신형철](https://github.com/nerumin), 
-[이승현](https://github.com/leesnhyun), 
-[홍성현](https://github.com/tjdgus3537), 
-[강민승](https://github.com/minseungkang), 
-박인서, 김상렬, 유성현, 성훈
+|[신형철](https://github.com/nerumin), [이승현](https://github.com/leesnhyun), [홍성현](https://github.com/tjdgus3537), [강민승](https://github.com/minseungkang), 박인서, 김상렬, 유성현, 성훈
 
 * 진행 예정 내용 
  * 다소 중요하다고 생각된 내용은 **보라색 볼드(굵게)** 처리하였습니다.
